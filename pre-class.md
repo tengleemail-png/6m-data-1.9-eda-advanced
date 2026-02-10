@@ -18,7 +18,7 @@ Please review the following four concepts. You don't need to memorize code synta
   * 1: Perfect match (they move identically).  
   * \-1: Perfect inverse (one goes up, one goes down).  
   * 0: No relationship (random).  
-* **Reading:** [Covariance vs Correlation (Blog)](https://www.mygreatlearning.com/blog/covariance-vs-correlation/)
+* **Reading:** [What’s the Difference Between Covariance and Correlation](https://careerfoundry.com/en/blog/data-analytics/covariance-vs-correlation/)
 
 ### **B. Time is an Object, Not a String**
 
